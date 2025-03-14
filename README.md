@@ -17,7 +17,7 @@ of engineering methods learned during my undergraduate.
 
 Firstly, here is a list of some small projects I developed or helped to develop:
 
-- [Energy View](https://github.com/EnergyView/EnergyView-FrontEnd) : Dashboard for monitoring real-time energy consumption
+- [Energy View](https://github.com/EnergyView) : Dashboard for monitoring real-time energy consumption
 - [Piece Pilot](https://github.com/gabrielpalassi/PiecePilot) : Web Application of a e-commerce
 - [Chess Game](https://github.com/gustavoscardino/ChessGame): A Chess Game Application written in C#
 - [Just Coding !](https://github.com/gustavoscardino/just-coding) :  Repository dedicated to study and research new programming languages and techniques
