@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Computer Engineering at Polytechnic School of the University of São Paulo (POLI-USP)
-- ️💼 I’m currently in an Exchange Program, Master's degree in Computer Science at University of Twente (Enschede, The Netherlands)
+- ️💼 1 year Exchange Program, Master's degree in Computer Science at University of Twente (Enschede, The Netherlands)
 - 💬 Here, you can find some projects I developed/contributed to throughout my career!
 
 # Contact me!
